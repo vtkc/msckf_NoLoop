@@ -1,0 +1,2 @@
+*.txt filter=lfs diff=lfs merge=lfs -text
+src/msckf_vio/Vocabulary/ORBvoc.txt filter=lfs diff=lfs merge=lfs -text

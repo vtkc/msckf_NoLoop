@@ -1,0 +1,2 @@
+msckf_vio
+-DCATKIN_DEVEL_PREFIX=/home/vtkc/Desktop/tlab/msckf_loopClosure_NoLoop/devel -DCMAKE_INSTALL_PREFIX=/home/vtkc/Desktop/tlab/msckf_loopClosure_NoLoop/install -G Unix Makefiles
